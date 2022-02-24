@@ -1,0 +1,8 @@
+Collision information:
+
+Pb (208) - p (1)
+ECM: 8.8 TeV
+Model: nucleon model
+Number of simulations: 5000 per impact parameter
+
+Simulated in GLISSANDO 3 
